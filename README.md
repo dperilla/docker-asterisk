@@ -1,6 +1,6 @@
-# quaipsolutions/asterisk
+# dperilla/docker-asterisk
 
-quaipsolutions/asterisk is a docker base image that bundles the latest version of asterisk certified version with pjsip.
+dperilla/docker-asterisk is a docker base image that bundles the latest version of asterisk certified version with pjsip.
 What is Asterisk?
 
 Asterisk is a free and open source framework for building communications applications and is sponsored by Digium.
