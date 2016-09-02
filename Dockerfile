@@ -1,6 +1,6 @@
 # Version: 0.0.1 - Certified Asterisk 13.1-cert2 with sip and pjsip
 FROM debian:latest
-MAINTAINER David Muñoz "david@quaip.com" & Enrique Morón "enrique@quaip.com"
+MAINTAINER David Muñoz "david@3vases.com"
 RUN apt-get update && apt-get -y upgrade
 RUN apt-get install -y build-essential openssl libjansson-dev sqlite \
                        libxml2-dev libncurses5-dev uuid-dev sqlite3 libsqlite3-dev pkg-config \
